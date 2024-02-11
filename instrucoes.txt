@@ -1,9 +1,5 @@
-echo "# Azure-machine-learning" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/schmidtronaldo/Azure-machine-learning.git
-git push -u origin main
-
+ # Azure machine learning
 * criar modelo de previsão com machine learning
+* criar modelo baseado na configuração das melhores rotas visando ganho de tempo e redução de custo
+* implantar modelo de machine learning para otimizar resultados
+* testar aplicação em varios ambientes
